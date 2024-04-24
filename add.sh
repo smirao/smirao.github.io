@@ -1,2 +1,2 @@
 #!/bin/bash
-git add index.html js/* style.css
+git add ./index.html js/* css/* && git commit -m "update"
