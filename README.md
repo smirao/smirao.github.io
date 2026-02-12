@@ -1,1 +1,0 @@
-# Silverio Mirao
