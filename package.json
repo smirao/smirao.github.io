@@ -20,7 +20,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && echo 'silveriomirao.com' > build/CNAME",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
