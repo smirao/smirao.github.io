@@ -47,7 +47,7 @@ const Profile = () => {
     </div>
     <div className="main">
       <div className="coming-soon">
-         <p>Coming Soon{decide(seconds)}</p>
+         <p>Under Construction{decide(seconds)}</p>
       </div>
     </div>
     </>
